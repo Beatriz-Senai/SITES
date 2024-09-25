@@ -1,0 +1,153 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header, footer{
+    background-color: #ECA457;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+}
+
+.logo{
+    width: 200px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+.fundo{
+    width: 1497px;
+}
+
+h2{
+    font-size: 60px;
+    color: #ECA457;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.texto{
+    font-size: 30px;
+    width: 1000px;
+    text-align: justify;
+    margin-left: 250px;
+}
+
+.receitas{
+    margin-top: 110px;
+}
+
+.inf1{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 30px;
+}
+
+.inf2{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 30px;
+}
+
+.inf3{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 30px;
+}
+
+.inf4{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 30px;
+}
+
+.informações1{
+    margin: 80px;
+    margin-left: 190px;
+    display: flex;
+    align-items: center;
+}
+
+.informações2{
+    margin: 80px;
+    margin-left: 190px;
+    display: flex;
+    align-items: center;
+}
+
+.bolo{
+    width: 130px;
+}
+
+.pão{
+    width: 130px;
+}
+
+.frango{
+    width: 130px;
+}
+
+.peixe{
+    width: 130px;
+}
+
+.titulo{
+    margin-bottom: 50px;
+}
+
+h4{
+    font-size: 30px;
+    height: 1px;
+}
+
+.textinho{
+    font-size: 20px;
+    color: #AFA7A7;
+}
+
+.inf{
+    width: 350px;
+}
+
+hr{
+    background-color: #ECA457;
+    padding: 2px;
+}
+
+.logo2{
+    width: 200px;
+    margin-left: 610px;
+}
+
+.infBlog{
+    display: flex;
+    align-items: center;
+}
+
+.perfil{
+    width: 150px;
+}
+
