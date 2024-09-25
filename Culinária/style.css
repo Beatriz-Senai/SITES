@@ -151,3 +151,24 @@ hr{
     width: 150px;
 }
 
+.resumoPerfil{
+    margin-left: 35px;
+}
+
+h3{
+   font-size: 45px;
+   height: 10px;
+}
+
+.resumo{
+    font-weight: lighter;
+    color: #AFA7A7;
+    font-size: 30px;
+    width: 500px;
+}
+
+.infBlog{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
