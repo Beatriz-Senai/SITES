@@ -22,15 +22,82 @@ footer{
 }
 
 .inicio{
-    background-image:url(img/aviao.png);
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    width: 1497px;
-    background-repeat: no-repeat;
+    background-image: url(img/aviao.png);
     padding: 70px 1px;
     flex-wrap: wrap;
-    height: 1200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
+.slogan{
+    color: white;
+    font-size: 90px;
+    width: 1000px;
+    margin: 1px 100px 500px 100px;
+}
 
+.pacotes{
+    color: #1D0F6E;
+    font-size: 60px;
+    text-align: center;
+}
+
+.oportunidade{
+    color: #1D0F6E;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 140px;
+}
+
+.inf1{
+    width: 335px;
+    height: 620px;
+    border: black 5px solid;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.inf2{
+    width: 335px;
+    height: 620px;
+    border: black 5px solid;
+    border-radius: 15px;
+}
+
+.inf3{
+    width: 335px;
+    height: 620px;
+    border: black 5px solid;
+    margin-right: 50px;
+    border-radius: 15px;
+}
+
+.informações{
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    height: 800px;
+}
+
+.londres, .rio, .japão{
+    display: flex;
+    height: 500px;
+}
+
+.londresTitulo, .rioTitulo, .japãoTitulo{
+    font-size: 30px;
+    height: 10px;
+}
+
+.preço{
+    font-size: 30px;
+}
+
+.promoção{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
